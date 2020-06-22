@@ -829,7 +829,7 @@ footer.entry-meta .meta-in {
   display: inline-block;
   color: rgba(0, 0, 0, 0.5);
 }
-.center {
+.centerd {
   display: flex;
   height: 200px;
   align-content: center;
